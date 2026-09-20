@@ -1,5 +1,5 @@
 # Katsushika Hokusai x Miku theme for Windows 11
-### Big thanks to [Urushi（うるし）](https://x.com/urushi_lacker) for this beautiful wallpapers.
+### Big thanks to [Urushi（うるし）](https://x.com/urushi_lacker) and [こおり](https://x.com/qoryis) for this beautiful wallpapers.
 YASB and other configs adapted for using Monofur NFP font applied with [Font Wizard](https://github.com/karnyadavdev/FontWizard). 
 With default font some YASB widgets might look wrong.
 ## Screenshots
