@@ -1,0 +1,109 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.41/schema.json",
+  "app_specific_configuration_path": "$Env:USERPROFILE/applications.json",
+  "window_hiding_behaviour": "Cloak",
+  "cross_monitor_move_behaviour": "Insert",
+  "transparency": false,
+  "transparency_alpha": 250,
+  "default_workspace_padding": 7,
+  "default_container_padding": 7,
+  "border": false,
+  "border_style":"Rounded",
+  "border_width": 4,
+  "border_offset": -1,
+  "mouse_follows_focus": false,
+  "animation": {
+    "enabled": true,
+    "duration": 160,
+    "fps": 300,
+    "style": {
+        "movement":"EaseInOutQuad",
+        "transparency": "Linear"
+      }
+},
+  "border_colours": {
+    "single": "#4b775e",
+    "unfocused": "#6d9471",
+    "floating": "#4b775e",
+    "monocle": "#6d9471"
+  },
+  "monitors": [
+    // monitor 1, index 0
+    {
+      "workspaces": [
+        {
+          "name": "I",
+          "layout": "RightMainVerticalStack"
+        },
+        {
+          "name": "II",
+          "layout": "BSP"
+        },
+        {
+          "name": "III",
+          "layout": "UltrawideVerticalStack"
+        }
+      ]
+    },
+    // monitor 2, index 1
+    {
+      "workspaces": [
+        {
+          "name": "Home",
+          "layout": "BSP"
+        },
+        {
+          "name": "2",
+          "layout": "Grid"
+        },
+        {
+          "name": "3",
+          "layout": "UltrawideVerticalStack"
+        },
+	
+      ]
+    }
+  ],
+ "ignore_rules": [
+{
+"kind": "Exe",
+"id": "ACShadows.exe",
+"matching_strategy": "Equals",
+},
+{
+"kind": "Exe",
+"id": "Overwatch.exe",
+"matching_strategy": "Equals",
+},
+{
+"kind": "Exe",
+"id": "Photos.exe",
+"matching_strategy": "Equals",
+},
+{
+"kind": "Exe",
+"id": "PotPlayerMini64.exe",
+"matching_strategy": "Equals",
+},
+{
+"kind": "Exe",
+"id": "AmneziaVPN.exe",
+"matching_strategy": "Equals",
+},
+{
+"kind": "Exe",
+"id": "YASB.exe",
+"matching_strategy": "Equals",
+},
+{
+"kind": "Exe",
+"id": "ACBlackFlag.exe",
+"matching_strategy": "Equals",
+},
+{
+"kind": "Exe",
+"id": "CapCut.exe",
+"matching_strategy": "Equals",
+}
+]
+}
