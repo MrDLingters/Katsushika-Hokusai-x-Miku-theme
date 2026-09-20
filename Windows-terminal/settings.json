@@ -1,0 +1,25 @@
+[
+    {
+        "background": "#F0E4CC",
+        "black": "#182430",
+        "blue": "#818F9A",
+        "brightBlack": "#486C90",
+        "brightBlue": "#90C0D0",
+        "brightCyan": "#486C90",
+        "brightGreen": "#C0C0A8",
+        "brightPurple": "#183060",
+        "brightRed": "#603C48",
+        "brightWhite": "#182430",
+        "brightYellow": "#4B565C",
+        "cursorColor": "#182430",
+        "cyan": "#486C90",
+        "foreground": "#182430",
+        "green": "#304848",
+        "name": "Katsushika Hokusai",
+        "purple": "#183060",
+        "red": "#603C48",
+        "selectionBackground": "#182430",
+        "white": "#182430",
+        "yellow": "#182430"
+    }
+]
