@@ -23,7 +23,7 @@ body {
     /* sizes */
     --gap: 12px; /* spacing between panels */
     --divider-thickness: 2px; /* thickness of unread messages divider and highlighted message borders */
-    --border-thickness: 2px; /* thickness of borders around main panels. DOES NOT AFFECT OTHER BORDERS */
+    --border-thickness: 1px; /* thickness of borders around main panels. DOES NOT AFFECT OTHER BORDERS */
     --border-hover-transition: 0.2s ease; /* transition for borders when hovered */
 
     /* animation/transition options */
