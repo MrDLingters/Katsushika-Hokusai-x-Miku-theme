@@ -58,7 +58,7 @@
     --display-music-banner-ascii: none; /* none | block */
 
     --border-radius: 14px;
-    --border-width: 2px;
+    --border-width: 1px;
     --border-style: solid; /* dotted | dashed | solid | double | groove | ridge | inset | outset */
     --border-transition: 0.2s ease; /* 'none' to disable  */
 
