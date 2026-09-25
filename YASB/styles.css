@@ -210,7 +210,19 @@
     --redFlash: #C34043;
     --subtext: #C8C093; */
 
-    /* Katsushika Hokusai x Miku*/
+    /* TEST */
+    /* --background: #A9788B;
+    --background2: #C9AAB6;
+    --accent: #E8DCE0;
+    --text: #EDE1E5;
+    --accentText: #A9788B;
+    --hover: #c199a9;
+    --mutedBG: #C9AAB6;
+    --border: #C9AAB6;
+    --redFlash: #FE92A0;
+    --subtext: #E9DCE1; */
+
+    /* Katsushika Hokusai*/
     --background: #F0E4cc;
     --background2: #c0c0a8;
     --accent: #486C90;
@@ -344,7 +356,6 @@
     padding-left: 6px;
     padding-right: 6px;
     margin: 1px 2px;
-    background-color: var(--background);
     border-radius: var(--border-radius);
     border: 0px solid var(--border);
 }
@@ -913,7 +924,7 @@
 
 /* Systray */
 .systray {
-    background: var(--background);
+    /* background: var(--background); */
 }
 
 /* Icon being dragged, we already apply some transparency to it so you don't need to use it */
